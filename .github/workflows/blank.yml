@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '*/1 * * * *'
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
 jobs:
   update-readme:
     name: Update Readme with Metrics
