@@ -70,7 +70,7 @@ CSS                      5 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/ccweerasinghe1994/ccweerasinghe1994/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
