@@ -73,4 +73,5 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/charts/bar_graph.png) 
 
 
+ Last Updated on 09/06/2021
 <!--END_SECTION:waka-->
