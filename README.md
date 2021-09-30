@@ -6,7 +6,7 @@
 
 > 🏆 250 Contributions in the Year 2021
  > 
-> 📦 408.7 kB Used in GitHub's Storage 
+> 📦 408.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,5 +73,5 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/09/2021
+ Last Updated on 30/09/2021
 <!--END_SECTION:waka-->
