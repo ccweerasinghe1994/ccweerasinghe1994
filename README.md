@@ -80,5 +80,5 @@ CSS                      6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
