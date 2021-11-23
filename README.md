@@ -43,20 +43,16 @@ Sunday       38 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-SCSS                     19 mins             ████████░░░░░░░░░░░░░░░░░   31.99% 
-JavaScript               16 mins             ██████░░░░░░░░░░░░░░░░░░░   27.15% 
-HTML                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87% 
-CSS                      9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.99%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-2.Arrays-q-1             35 mins             ██████████████░░░░░░░░░░░   59.14% 
-html-forms               24 mins             ██████████░░░░░░░░░░░░░░░   40.86%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,5 +73,5 @@ CSS                      6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/11/2021
+ Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
