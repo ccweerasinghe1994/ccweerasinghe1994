@@ -10,9 +10,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 66 Public Repositories 
+> 📜 67 Public Repositories 
  > 
-> 🔑 38 Private Repositories  
+> 🔑 37 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -73,5 +73,5 @@ CSS                      6 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/charts/bar_graph.png) 
 
 
- Last Updated on 06/12/2021
+ Last Updated on 07/12/2021
 <!--END_SECTION:waka-->
