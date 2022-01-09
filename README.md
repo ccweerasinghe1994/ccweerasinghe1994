@@ -4,13 +4,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 35 Contributions in the Year 2022
+> 🏆 36 Contributions in the Year 2022
  > 
 > 📦 452.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 71 Public Repositories 
+> 📜 72 Public Repositories 
  > 
 > 🔑 38 Private Repositories  
  > 
@@ -43,18 +43,16 @@ Sunday       44 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Markdown                 52 mins             █████████████████████░░░░   84.29% 
-JSX                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-image-app                1 hr 2 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -75,5 +73,5 @@ CSS                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/01/2022
+ Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
