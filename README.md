@@ -43,19 +43,16 @@ Sunday       47 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-SQL                      2 hrs 53 mins       █████████████████████████   99.93% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-DataGrip                 2 hrs 53 mins       █████████████████████████   99.93% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Mongo DB                 2 hrs 53 mins       █████████████████████████   99.93% 
-React-TypeScript         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 53 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -76,5 +73,5 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/01/2022 18:57:13 UTC
+ Last Updated on 27/01/2022 18:53:57 UTC
 <!--END_SECTION:waka-->
