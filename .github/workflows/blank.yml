@@ -16,3 +16,4 @@ jobs:
           SHOW_LINES_OF_CODE: "true"
           SHOW_PROFILE_VIEWS: "true"
           SHOW_COMMIT: "true"
+          
