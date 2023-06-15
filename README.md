@@ -45,19 +45,16 @@ Sunday                   2404 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               1 hr 32 mins        ██████████████████████░░░   87.45 % 
-TSConfig                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-react-hook-form-with-zod 1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,5 +74,5 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/assets/bar_graph.png)
 
 
- Last Updated on 14/06/2023 18:43:16 UTC
+ Last Updated on 15/06/2023 18:43:28 UTC
 <!--END_SECTION:waka-->
