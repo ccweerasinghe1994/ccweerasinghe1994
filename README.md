@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,17 +45,18 @@ Sunday                   2407 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               13 mins             ████████████████████░░░░░   81.37 % 
-JSON                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+TypeScript               28 mins             ██████████████████████░░░   89.92 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+VS Code                  31 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-react-hook-form-with-zod 16 mins             █████████████████████████   100.00 % 
+react-hook-form-with-zod 31 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,5 +76,5 @@ Bicep                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2023 18:44:26 UTC
+ Last Updated on 02/07/2023 18:44:29 UTC
 <!--END_SECTION:waka-->
