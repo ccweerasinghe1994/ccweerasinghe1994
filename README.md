@@ -45,18 +45,16 @@ Sunday                   4146 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               16 mins             ███████████████████████░░   91.61 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Node-Auth-typescript     16 mins             ███████████████████████░░   91.61 % 
-Node-Auth                1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,5 +74,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2023 18:48:24 UTC
+ Last Updated on 31/07/2023 18:46:06 UTC
 <!--END_SECTION:waka-->
