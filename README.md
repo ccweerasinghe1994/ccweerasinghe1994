@@ -45,16 +45,16 @@ Sunday                   4221 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-react-router-6-tutorial  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,5 +74,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2023 18:48:01 UTC
+ Last Updated on 21/09/2023 18:47:03 UTC
 <!--END_SECTION:waka-->
