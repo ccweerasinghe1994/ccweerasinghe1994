@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C189%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,16 +45,25 @@ Sunday                   4221 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 22 mins        ██████████████████░░░░░░░   70.15 % 
+JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 27 mins        ██████████████████░░░░░░░   73.87 % 
+VS Code                  30 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+trip-planner             1 hr 16 mins        ████████████████░░░░░░░░░   65.12 % 
+Node-Auth-typescript     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+steps-app                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+node-auth-jwt-front-end  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Node-Auth                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,5 +83,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2023 18:47:51 UTC
+ Last Updated on 30/09/2023 18:46:47 UTC
 <!--END_SECTION:waka-->
