@@ -11,9 +11,7 @@
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
 > 🏆 1,692 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
+ >
 > 📜 169 Public Repositories 
  > 
 > 🔑 54 Private Repositories 
