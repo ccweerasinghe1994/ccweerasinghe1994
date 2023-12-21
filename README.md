@@ -45,18 +45,16 @@ Sunday                   4345 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Markdown                 37 mins             ██████████████░░░░░░░░░░░   57.14 % 
-YAML                     28 mins             ███████████░░░░░░░░░░░░░░   42.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Docker-for-DevOps-Enginee37 mins             ██████████████░░░░░░░░░░░   57.14 % 
-compose                  28 mins             ███████████░░░░░░░░░░░░░░   42.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,5 +74,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2023 18:51:18 UTC
+ Last Updated on 21/12/2023 18:47:34 UTC
 <!--END_SECTION:waka-->
