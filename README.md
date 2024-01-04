@@ -1,6 +1,6 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C460%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C460%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,16 +45,23 @@ Sunday                   4345 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     8 mins              ████████████████░░░░░░░░░   65.61 % 
+Markdown                 4 mins              █████████░░░░░░░░░░░░░░░░   34.26 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 6 mins              ████████████░░░░░░░░░░░░░   49.36 % 
+VS Code                  4 mins              █████████░░░░░░░░░░░░░░░░   34.26 % 
+Intellijidea             2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+CLI-Project              6 mins              ████████████░░░░░░░░░░░░░   49.36 % 
+Java-Master-Class-2023-1-4 mins              █████████░░░░░░░░░░░░░░░░   34.26 % 
+Java Master Class Repo 1 2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,5 +81,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2024 18:48:10 UTC
+ Last Updated on 04/01/2024 18:51:54 UTC
 <!--END_SECTION:waka-->
