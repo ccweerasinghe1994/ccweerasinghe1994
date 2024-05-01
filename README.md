@@ -45,18 +45,16 @@ Sunday                   4992 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     19 mins             ████████████████████░░░░░   78.53 % 
-Markdown                 5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             19 mins             ████████████████████░░░░░   78.53 % 
-VS Code                  5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ApacheKafkaForEventDriven24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,5 +74,5 @@ HCL                      4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ccweerasinghe1994/ccweerasinghe1994/master/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2024 18:53:31 UTC
+ Last Updated on 01/05/2024 18:49:34 UTC
 <!--END_SECTION:waka-->
